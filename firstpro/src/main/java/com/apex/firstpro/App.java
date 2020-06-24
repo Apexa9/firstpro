@@ -9,7 +9,7 @@ public class App
 {
     public static void main( String[] args )
     {
-     System.out.println( "Hello World!" );
+     System.out.println( "ello World!" );
     sim s=new airtel();
     s.data();
   //  	ApplicationContext context=new ClassPathXmlApplicationContext();
